@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tg1182460-web.github.io/engineering-/sitemap.xml
